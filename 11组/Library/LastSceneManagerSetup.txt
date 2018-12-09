@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Equipment for industrial or sci-fi building/Equipment_demo.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Images/VRAndUI.unity
+  isLoaded: 1
+  isActive: 0
